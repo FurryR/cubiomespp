@@ -8,4 +8,4 @@ It is also not compatible to shared library due to **C++ ABI problems**.
 
 This project is still under development but I will try to keep this library up-to-date.
 
-Feel free make a pull request if you want to help.
+Feel free to make a pull request if you want to help.
